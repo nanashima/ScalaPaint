@@ -22,23 +22,43 @@ object Main extends JFXApp {
   var y:Double = 0
 
   var tool:Updator = null
+  var history:List[Canvas] = Nil
 
   type Updator = (Point2D, Point2D) => Unit
 
-  val canvas = new Canvas(W, H) {
-      onMousePressed  = (e: MouseEvent) => {x = e.x; y = e.y;}
-      onMouseDragged = (e: MouseEvent) => drawfree(new Point2D(x,y),new Point2D(e.x,e.y))
-      //onMouseReleased = (e: MouseEvent) => { onDragFinish(e); draw() }
-    }
+  var canvas = new Canvas(W, H) {
+    onMousePressed  = (e: MouseEvent) => {x = e.x; y = e.y;}
+    onMouseDragged = (e: MouseEvent) => drawfree(new Point2D(x,y),new Point2D(e.x,e.y))
+    onMouseReleased = (e: MouseEvent) => { saveHistory(this) }
+  }
 
-    val gc = canvas.graphicsContext2D
+  val gc = canvas.graphicsContext2D
 
-    val pw = gc.pixelWriter
+  val pw = gc.pixelWriter
 
-    def drawfree: Updator = { (p1: Point2D, p2: Point2D) =>
+  val backB = new Button("back") { onAction =
+      () => { useHistory() match {
+        case (_,false) => {}
+        case (l,true) => canvas = l
+        }
+      }
+  }
+
+  def drawfree: Updator = { (p1: Point2D, p2: Point2D) =>
     gc.strokeLine(p1.x,p1.y,p2.x,p2.y)
     x = p2.x
     y = p2.y
+  }
+
+  def saveHistory(hist:Canvas) = {
+    history = hist::history
+  }
+
+  def useHistory():(Canvas,Boolean) = {
+    history match {
+      case Nil => (canvas,false)
+      case l::rest => (l,true)
+    }
   }
 
   stage = new PrimaryStage {
@@ -48,9 +68,9 @@ object Main extends JFXApp {
         hgrow = Priority.Always
         vgrow = Priority.Always
         center = canvas
-        /*top = new HBox {
-          children = List(quitButton, backwardButton, forwardButton, favoriteButton)
-        }*/
+        top = new HBox {
+          children = List(backB)
+        }
       }
     }
   }
