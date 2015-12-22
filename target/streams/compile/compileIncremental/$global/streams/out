@@ -1,0 +1,53 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set(/home/nanashi5/keisankikagaku1/painttool/src/view.scala)[0m
+[0m[[0mdebug[0m] [0m	added: Set(/home/nanashi5/keisankikagaku1/ScalaPaint/src/view.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mInvalidated products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/home/nanashi5/keisankikagaku1/painttool/src/view.scala, /home/nanashi5/keisankikagaku1/ScalaPaint/src/view.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/nanashi5/keisankikagaku1/painttool/src/view.scala, /home/nanashi5/keisankikagaku1/ScalaPaint/src/view.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 1 sources: invalidated sources (2) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to /home/nanashi5/keisankikagaku1/ScalaPaint/target/scala-2.11/classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.7[0m
+[0m[[0minfo[0m] [0m[search path for source files: ][0m
+[0m[[0minfo[0m] [0m[search path for class files: /Library/Java/JavaVirtualMachines/jdk1.7.0_17.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_17.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_17.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_17.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_17.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_17.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_17.jdk/Contents/Home/jre/lib/JObjC.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_17.jdk/Contents/Home/jre/lib/ext/dnsns.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_17.jdk/Contents/Home/jre/lib/ext/localedata.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_17.jdk/Contents/Home/jre/lib/ext/sunec.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_17.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_17.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_17.jdk/Contents/Home/jre/lib/ext/zipfs.jar:/System/Library/Java/Extensions/AppleScriptEngine.jar:/System/Library/Java/Extensions/dns_sd.jar:/System/Library/Java/Extensions/j3daudio.jar:/System/Library/Java/Extensions/j3dcore.jar:/System/Library/Java/Extensions/j3dutils.jar:/System/Library/Java/Extensions/jai_codec.jar:/System/Library/Java/Extensions/jai_core.jar:/System/Library/Java/Extensions/mlibwrapper_jai.jar:/System/Library/Java/Extensions/MRJToolkit.jar:/System/Library/Java/Extensions/QTJava.zip:/System/Library/Java/Extensions/vecmath.jar:/home/nanashi5/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar:/home/nanashi5/keisankikagaku1/ScalaPaint/target/scala-2.11/classes:/Library/Java/JavaVirtualMachines/jdk1.7.0_17.jdk/Contents/Home/jre/lib/jfxrt.jar:/home/nanashi5/.ivy2/cache/org.scalafx/scalafx_2.11/jars/scalafx_2.11-2.2.76-R11.jar:/home/nanashi5/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.5.jar][0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.7[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 6108a70e, interfacing (CompilerInterface) with Scala compiler version 2.11.7[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-optimize[0m
+[0m[[0mdebug[0m] [0m	-feature[0m
+[0m[[0mdebug[0m] [0m	-unchecked[0m
+[0m[[0mdebug[0m] [0m	-deprecation[0m
+[0m[[0mdebug[0m] [0m	-Ylog-classpath[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/Library/Java/JavaVirtualMachines/jdk1.7.0_17.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_17.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_17.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_17.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_17.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_17.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_17.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_17.jdk/Contents/Home/jre/lib/JObjC.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_17.jdk/Contents/Home/jre/classes:/home/nanashi5/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/nanashi5/keisankikagaku1/ScalaPaint/target/scala-2.11/classes:/Library/Java/JavaVirtualMachines/jdk1.7.0_17.jdk/Contents/Home/jre/lib/jfxrt.jar:/home/nanashi5/.ivy2/cache/org.scalafx/scalafx_2.11/jars/scalafx_2.11-2.2.76-R11.jar:/home/nanashi5/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.5.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 4.907474 s[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/nanashi5/keisankikagaku1/ScalaPaint/src/view.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/nanashi5/keisankikagaku1/ScalaPaint/src/view.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/nanashi5/keisankikagaku1/ScalaPaint/src/view.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/nanashi5/keisankikagaku1/ScalaPaint/src/view.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/nanashi5/keisankikagaku1/ScalaPaint/src/view.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, x, stage, wait, $asInstanceOf, equals, y, tool, asInstanceOf, pw, synchronized, $isInstanceOf, main, notifyAll, isInstanceOf, ==, Updator, drawfree, clone, gc, Main, toString, H, !=, W, getClass, ne, init, parameters, eq, stopApp, canvas, delayedInit, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/nanashi5/keisankikagaku1/painttool/src/view.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/nanashi5/keisankikagaku1/painttool/src/view.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/nanashi5/keisankikagaku1/painttool/src/view.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/nanashi5/keisankikagaku1/painttool/src/view.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/nanashi5/keisankikagaku1/painttool/src/view.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, x, stage, wait, $asInstanceOf, equals, y, tool, asInstanceOf, pw, synchronized, $isInstanceOf, main, notifyAll, isInstanceOf, ==, Updator, drawfree, clone, gc, Main, toString, H, !=, W, getClass, ne, init, parameters, eq, stopApp, canvas, delayedInit, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m

@@ -1,0 +1,4 @@
+[0m[[0minfo[0m] [0mRunning painttool.Main [0m
+[0m[[0minfo[0m] [0m[GC 20544K->2918K(78720K), 0.0033490 secs][0m
+[0m[[0minfo[0m] [0m[GC 23462K->2586K(78720K), 0.0042310 secs][0m
+[0m[[31merror[0m] [0mCoreAnimation: warning, deleted thread with uncommitted CATransaction; set CA_DEBUG_TRANSACTIONS=1 in environment to log backtraces.[0m
