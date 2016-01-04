@@ -1,4 +1,129 @@
 [0m[[0minfo[0m] [0mRunning painttool.Main [0m
-[0m[[0minfo[0m] [0m[GC 20480K->2986K(78528K), 0.0039330 secs][0m
-[0m[[0minfo[0m] [0m[GC 23466K->3434K(78528K), 0.0045280 secs][0m
-[0m[[31merror[0m] [0mCoreAnimation: warning, deleted thread with uncommitted CATransaction; set CA_DEBUG_TRANSACTIONS=1 in environment to log backtraces.[0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  4416K->1360K(15872K), 0.0052077 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  5772K->2363K(15872K), 0.0077638 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  6692K->2491K(15872K), 0.0049904 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  6841K->2944K(15872K), 0.0050725 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  7360K->3574K(15872K), 0.0050225 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  7986K->4049K(15872K), 0.0070016 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  8465K->4364K(15872K), 0.0082248 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  7886K->5137K(15872K), 0.0159029 secs][0m
+[0m[[0minfo[0m] [0m[SFX]Point2D [x = 211.0, y = 243.0][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  9553K->7490K(15872K), 0.0069856 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  11906K->7399K(15872K), 0.0055455 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  11815K->7422K(15872K), 0.0028582 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  11838K->7443K(15872K), 0.0027011 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  11859K->7572K(15872K), 0.0030987 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  11988K->7589K(15872K), 0.0045397 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  12005K->7496K(15872K), 0.0025695 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  11912K->7562K(15872K), 0.0034156 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  11978K->7507K(15872K), 0.0031090 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  11923K->7737K(15872K), 0.0051783 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  12153K->7612K(15872K), 0.0028890 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  12028K->7698K(15872K), 0.0031304 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  12114K->7803K(15872K), 0.0045089 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  12219K->7652K(15872K), 0.0032175 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  12068K->7566K(15872K), 0.0034290 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  11982K->7693K(15872K), 0.0029747 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  12109K->8049K(15872K), 0.0074836 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  12465K->8461K(15872K), 0.0089183 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  12877K->8485K(15872K), 0.0041702 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  12901K->8659K(15872K), 0.0044040 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  13075K->8958K(15872K), 0.0058914 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  13374K->9444K(15872K), 0.0064041 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  13860K->9605K(15872K), 0.0054059 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  14021K->9737K(15872K), 0.0051122 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  14153K->9823K(15872K), 0.0045624 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  14239K->10085K(15872K), 0.0059677 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  14501K->10057K(15872K), 0.0054130 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  14473K->9954K(15872K), 0.0047508 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  14370K->10133K(15872K), 0.0055299 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  14549K->10209K(15872K), 0.0056076 secs][0m
+[0m[[0minfo[0m] [0m[GC (GCLocker Initiated GC)  14625K->10094K(15872K), 0.0075153 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  14510K->10532K(15872K), 0.0062421 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  14948K->11061K(15872K), 0.0084479 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  15477K->11802K(16256K), 0.0092601 secs][0m
+[0m[[0minfo[0m] [0m[Full GC (Allocation Failure)  11802K->7800K(16256K), 0.0471122 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  13048K->8247K(18892K), 0.0043081 secs][0m
+[0m[[0minfo[0m] [0m[SFX]Point2D [x = 107.0, y = 365.0][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  13495K->8227K(18892K), 0.0042818 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  13475K->8306K(18892K), 0.0045972 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  13554K->8356K(18892K), 0.0030492 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  13604K->8378K(18892K), 0.0022906 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  13626K->8436K(18892K), 0.0039328 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  13684K->8450K(18892K), 0.0039502 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  13698K->8644K(18892K), 0.0047967 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  13892K->8363K(18892K), 0.0022335 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  13611K->8441K(18892K), 0.0031104 secs][0m
+[0m[[0minfo[0m] [0m[GC (GCLocker Initiated GC)  13712K->8399K(18892K), 0.0036847 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  13647K->8386K(18892K), 0.0034424 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  13634K->8616K(18892K), 0.0036815 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  13864K->8687K(18892K), 0.0038422 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  13935K->8534K(18892K), 0.0031273 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  13782K->8579K(18892K), 0.0036798 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  13827K->8582K(18892K), 0.0036017 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  13830K->8773K(18892K), 0.0048065 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  14021K->8820K(18892K), 0.0055058 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  14068K->9276K(18892K), 0.0081717 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  14524K->9772K(18892K), 0.0073087 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  15020K->9887K(18892K), 0.0045540 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  15135K->10271K(18892K), 0.0076634 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  15519K->10667K(18892K), 0.0090557 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  15915K->10633K(18892K), 0.0040689 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  15881K->10816K(18892K), 0.0056098 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  16064K->10856K(18892K), 0.0055254 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  16104K->10745K(18892K), 0.0052635 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  15993K->10840K(18892K), 0.0042452 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  16088K->11215K(18892K), 0.0055054 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  16463K->11982K(18892K), 0.0084751 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  17230K->12495K(18892K), 0.0090334 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  17743K->12784K(18892K), 0.0073908 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  18032K->13421K(18892K), 0.0083399 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  18669K->13661K(19020K), 0.0067285 secs][0m
+[0m[[0minfo[0m] [0m[Full GC (Allocation Failure)  13661K->7177K(19020K), 0.0595947 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  12425K->8045K(18892K), 0.0058476 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  13293K->8713K(18892K), 0.0084265 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  13961K->9333K(18892K), 0.0078928 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  14581K->9872K(18892K), 0.0074117 secs][0m
+[0m[[0minfo[0m] [0m[GC (GCLocker Initiated GC)  15148K->10427K(18892K), 0.0079727 secs][0m
+[0m[[0minfo[0m] [0m[SFX]Point2D [x = 304.0, y = 7.0][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  15675K->10382K(18892K), 0.0040805 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  15630K->10428K(18892K), 0.0032848 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  15676K->10414K(18892K), 0.0027966 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  15662K->10562K(18892K), 0.0041108 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  15810K->10441K(18892K), 0.0032661 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  15689K->10416K(18892K), 0.0025320 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  15664K->10616K(18892K), 0.0029086 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  15864K->10627K(18892K), 0.0038404 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  15875K->10627K(18892K), 0.0039912 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  15875K->10546K(18892K), 0.0029854 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  15794K->10501K(18892K), 0.0034861 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  15749K->10653K(18892K), 0.0033946 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  15901K->10563K(18892K), 0.0037378 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  15811K->10472K(18892K), 0.0026637 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  15720K->10851K(18892K), 0.0045227 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  16099K->10813K(18892K), 0.0046298 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  16061K->10948K(18892K), 0.0052992 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  16196K->10818K(18892K), 0.0036811 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  16066K->10942K(18892K), 0.0043496 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  16190K->11059K(18892K), 0.0048409 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  16307K->10862K(18892K), 0.0048440 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  16110K->11282K(18892K), 0.0059967 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  16559K->11451K(18892K), 0.0052448 secs][0m
+[0m[[0minfo[0m] [0m[GC (GCLocker Initiated GC)  12082K->11456K(18892K), 0.0032469 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  16504K->12022K(18892K), 0.0045682 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  17270K->12235K(18892K), 0.0056785 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  17483K->12122K(18892K), 0.0052831 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  17370K->11979K(18892K), 0.0033156 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  17227K->12240K(18892K), 0.0039712 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  17488K->12247K(18892K), 0.0043737 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  17495K->12079K(18892K), 0.0049685 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  17327K->12381K(18892K), 0.0072239 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  17629K->12301K(18892K), 0.0042585 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  17549K->12195K(18892K), 0.0037498 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  17443K->12591K(18892K), 0.0047418 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  17839K->12648K(18892K), 0.0050310 secs][0m
+[0m[[0minfo[0m] [0m[GC (GCLocker Initiated GC)  12763K->12650K(18892K), 0.0062345 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  17898K->13742K(19020K), 0.0091035 secs][0m
+[0m[[0minfo[0m] [0m[Full GC (Allocation Failure)  13742K->6881K(19020K), 0.0431138 secs][0m
+[0m[[0minfo[0m] [0m[GC (GCLocker Initiated GC)  12129K->7614K(18892K), 0.0068013 secs][0m
+[0m[[0minfo[0m] [0m[GC (Allocation Failure)  12862K->8012K(18892K), 0.0094997 secs][0m

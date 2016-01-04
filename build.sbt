@@ -14,7 +14,7 @@ scalacOptions ++=        // scalac に与えるオプション
     "-Ylog-classpath")
 
 javaOptions in run ++=   // 仮想機械に与えるオプション
-  Seq( "-Xmx2G", "-verbose:gc")    
+  Seq( "-Xmx1G", "-verbose:gc")    
 
 // プロジェクトで使う非標準 Scala ライブラリ
 
